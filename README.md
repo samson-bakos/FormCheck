@@ -1,5 +1,7 @@
 # FormCheck: Weightlifting Form Assessment Project
 
+**VERY MUCH UNDER CONSTRUCTION :)**
+
 ## Overview
 
 FormCheck is an open-source machine learning and computer vision project designed for assessing people's form during weightlifting exercises. The project comprises two main components: lift classification and form issue identification.
