@@ -9,7 +9,7 @@ FormCheck is an open-source machine learning and computer vision project designe
 ### Key Features
 
 - **Lift Classification:** Classify different types of weightlifting exercises (e.g., squat, press) using machine learning models.
-- **Form Issue Identification:** Identify potential issues with lifting form, such as back rounding or knees collapsing.
+- **Form Issue Identification:** Identify potential issues with lifting form, such as partial range of motion, back rounding or knees collapsing.
 
 ## Getting Started
 
