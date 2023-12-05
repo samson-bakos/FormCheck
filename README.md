@@ -44,13 +44,9 @@ FormCheck is an open-source machine learning and computer vision project designe
 
 ## Data Collection
 
-### Collecting Data
+### Collecting and Annotating Data
 
 - To build or extend the dataset, follow the guidelines in the [Data Collection](./docs/data-collection.md) documentation.
-
-### Annotation
-
-- Manually annotate the dataset with labels for both lift classification and form issues.
 
 ## Model Training
 
