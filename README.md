@@ -1,4 +1,4 @@
-# FormCheck: Weightlifting Form Assessment Project
+# FormCheck: Weightlifting Form Assessment
 
 **VERY MUCH UNDER CONSTRUCTION :)**
 
