@@ -42,9 +42,7 @@ FormCheck is an open-source machine learning and computer vision project designe
 
 2. Follow on-screen instructions to input video files or use the webcam for real-time assessment.
 
-## Data Collection
-
-### Collecting and Annotating Data
+## Data Collection and Annotation
 
 - To build or extend the dataset, follow the guidelines in the [Data Collection](./docs/data-collection.md) documentation.
 
